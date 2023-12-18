@@ -55,4 +55,13 @@ $fa-font-path: "../fonts/font-awesome" !default;
 # creo cartella partials - metto file _variables.scss
 
 @use './partials/variables' as *;
+
+# comandi git
+
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Trotteriniku/template_laravel_base.git
+git push -u origin ma
 ```
